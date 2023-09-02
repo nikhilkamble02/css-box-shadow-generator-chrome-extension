@@ -1,0 +1,11 @@
+{
+    "name": "Box Shadow Generator Copy",
+    "version": "5.0.0",
+    "description": "generate box shadow for your app copy",
+    "manifest_version": 3,
+    "author": "Aman Mulani",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Generate Box shadow Generator"
+    }
+}
